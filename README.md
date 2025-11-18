@@ -43,9 +43,9 @@
 - **Libraries & Tools:** aiogram • psycopg2 
 
 ### ⚛️ Frontend Development  
-- **Frameworks & Libraries:** React • Next.js • Redux Toolkit  
+- **Frameworks & Libraries:** Js • Ts • React • Next.js
 - **Core Technologies:** JavaScript (ES6+) • HTML5 • CSS3  
-- **State Management:** Redux • Context API  
+- **State Management:** Redux-toolkit • Zustand  
 
 ---
 
