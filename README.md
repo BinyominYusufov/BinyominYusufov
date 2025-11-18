@@ -40,7 +40,7 @@
 ### 🐍 Backend Development  
 - **Languages & Frameworks:** Python • Django • FastAPI  
 - **Databases:** PostgreSQL • SQLite • SQL  
-- **Libraries & Tools:** aiogram • psycopg2 • SQLAlchemy  
+- **Libraries & Tools:** aiogram • psycopg2 
 
 ### ⚛️ Frontend Development  
 - **Frameworks & Libraries:** React • Next.js • Redux Toolkit  
